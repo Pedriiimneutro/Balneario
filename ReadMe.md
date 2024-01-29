@@ -1,8 +1,7 @@
-# Autofarms Balneário.
+# Autofarms Balneário
 
-Todas as farms são gratis. A venda não e permitida. 
-Não permito colocar encurtador para meu link.
-Administradores o do jogo por padrão estão na blacklist (Pode tentar iniciar sem o loader. Vai se divertir)
-
+Todas as farms automatizadas são disponibilizadas gratuitamente. A comercialização não é permitida. 
+É vedado o uso de encurtadores para meu link.
+Os administradores do jogo estão automaticamente incluídos na lista negra (Pode tentar iniciar sem o carregador. Terá uma experiência agradável).
 
 ### [© 2024 BALINE COMMUNITY. Todos os direitos reservados.](https://discord.gg/7njYTGFbzA)
