@@ -5,4 +5,4 @@ Não permito colocar encurtador para meu link.
 
 
 
-### © 2024 BALINE COMMUNITY. Todos os direitos reservados.
+### [© 2024 BALINE COMMUNITY. Todos os direitos reservados.](https://discord.gg/7njYTGFbzA)
